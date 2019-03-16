@@ -1,0 +1,7 @@
+useDynLib(resautonet, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
+importFrom(magrittr,"%>%")
+importFrom("stats", "as.formula", "predict")
+exportPattern("^[[:alpha:]]+")
+

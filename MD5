@@ -1,0 +1,17 @@
+006021c7c467e86aa81fae5019370711 *DESCRIPTION
+5f80e7d7c4254273cbd49e83151fcd4e *NAMESPACE
+fcf1279ebc305054530283998fdf8d85 *R/RcppExports.R
+19aedbc38eb723a2806a98ca1dc717a7 *R/metrics.R
+32132fa424e342bb2f40e69cc8fa1322 *R/resautomodel.R
+8c7695d9017a809f76f3e1e354a9f2f0 *build/partial.rdb
+1edcff34ccf500f33a3d109ef8299e32 *man/AutoEncoderModel.Rd
+6352da806a3cf3006343fe5b9d642e4d *man/hiddenBlock.Rd
+1e52d8a017a04e8209e9df8d6213475e *man/keras_r2.Rd
+e6eaafbc7b57c09d68c6535154fd6285 *man/r2_squ.Rd
+072214dfd360b239e67aa8a29c564ea1 *man/rcpparma_hello_world.Rd
+200564da26dea65a3ef392d95a470a5d *man/resautonet-package.Rd
+d5f891c39cc6a0810dd502024b44f2cc *man/rmse.Rd
+61059660eb073d93e00e8ee054237071 *src/Makevars
+61059660eb073d93e00e8ee054237071 *src/Makevars.win
+1d91d352e5a8de0ac7ca8d533dd41053 *src/RcppExports.cpp
+6f35999ed6c5117a6c547833c636afd1 *src/rcpparma_hello_world.cpp
